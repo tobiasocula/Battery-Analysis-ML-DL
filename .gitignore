@@ -1,0 +1,6 @@
+venv
+battery_metadata.csv
+battery_observations.csv
+test_batteries.csv
+train_batteries.csv
+validation_batteries.csv
