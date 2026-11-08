@@ -5,3 +5,5 @@ test_batteries.csv
 train_batteries.csv
 validation_batteries.csv
 assignment.pdf
+markov.ipynb
+markov_text.md
