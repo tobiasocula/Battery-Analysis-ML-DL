@@ -29,3 +29,5 @@ per degradation category:
 This fits your problem best. Degradation is a progression through ordered states (Normal, Moderate, Severe, Critical), and a left-to-right HMM encodes that directly: states can only stay or move forward. Each battery’s cycles form a sequence, and the model uses temporal context that row-wise clustering ignores. hmmlearn implements it with Gaussian emissions. You would fit it on a few informative features (for example PCA components, or resistance and voltage trends) and map the four states to the four labels in order.
 
 in kNN: try adjusting "weights" (uniform vs. distance) in the scikit-learn class, 
+
+for kmeans: always do k>=4
