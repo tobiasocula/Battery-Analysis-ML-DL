@@ -1,5 +1,8 @@
 
 
+https://www.mdpi.com/1424-8220/22/1/291?
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9030796/?
+
 for hyperparameter selection (unsupervised DL):
 https://www.mdpi.com/1424-8220/22/1/291?
 Latent dimensions between 2 and 10.
